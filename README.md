@@ -8,7 +8,7 @@ This is a simple Python implementation of the card game **War**, where two virtu
 2. In each round, both players play the top card from their decks.
 3. The player with the higher card wins the round and takes both cards.
 4. If both cards have the same value, a **war** is declared:
-    - In a war, each player draws five more cards. The highest card drawn wins the war, and the winner takes all the cards.
+    - In a war, each player draws seven more cards. The highest card drawn wins the war, and the winner takes all the cards.
     - The player with the higher face-up card wins all the cards in play.
 5. The game ends when one player is out of cards.
 6. After one player does not have enough cards to play, the game declares a winner.

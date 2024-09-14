@@ -23,12 +23,12 @@ This is a simple Python implementation of the card game **War**, where two virtu
 - Python 3.x
 
 ## Example output
-**Round 1**
-**Round 2**
-**Round 3**
-**Round 4**
-**Round 5**
-**...**
-**Round 265**
-Player one out of cards. Game over!!
-PLAYER TWO WINS!!
+**Round 1**  
+**Round 2**  
+**Round 3**  
+**Round 4**  
+**Round 5**  
+**...**  
+**Round 265**  
+Player one out of cards. Game over!!  
+PLAYER TWO WINS!!  
